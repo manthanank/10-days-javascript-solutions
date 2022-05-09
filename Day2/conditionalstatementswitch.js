@@ -30,10 +30,10 @@ function getLetter(s) {
             letter = 'A';
             break;
         case('b' || 'c' || 'd' || 'f' || 'g'):
-            letter = 'A';
+            letter = 'B';
             break;
         case('h' || 'j' || 'k' || 'l' || 'm'):
-            letter = 'A';
+            letter = 'C';
             break;
         default: 
             letter = 'D';
